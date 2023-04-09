@@ -14,4 +14,4 @@ CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 EXPOSE 80 22
 
 #port 22 (ssh)
-#port xvxcvcvvc
+#port xvxc
